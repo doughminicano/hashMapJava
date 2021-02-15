@@ -1,9 +1,8 @@
 public class Test {
     public static void main(String[] args) {
 
-        HashMatique hm = new HashMatique();
+        Exceptions ec = new Exceptions();
 
-        hm.trackList();
-
+        ec.except();
     }
 }
